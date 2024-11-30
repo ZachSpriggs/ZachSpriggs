@@ -8,7 +8,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachSpriggs&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YZachSpriggs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachSpriggs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
